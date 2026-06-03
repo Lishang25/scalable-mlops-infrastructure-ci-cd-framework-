@@ -1,15 +1,9 @@
-# Machine Learning Opearations (MLOps)
+# Scalable Machine Learning Opearations (MLOps)
 
-## MLOps maturity level 4
+## MLOps maturity level 5
 
 ## Overview :
-This project implements a robust MLOps pipeline, facilitating the continuous integration, continuous deployment, and monitoring of machine learning models. The infrastructure leverages AWS, Kubernetes, and various open-source tools to ensure scalability, reproducibility, and maintainability.
-
-
-
-## Architecture :
-
-![image](https://github.com/Chandru-21/MLOps_Project/assets/64595758/123511be-fe66-424d-8776-513b908840fe)
+This project focuses on building a robust and scalable MLOps pipeline to automate the machine learning lifecycle, including model integration, deployment, monitoring, and maintenance. By leveraging AWS, Kubernetes, and open-source technologies, the solution ensures efficient, reproducible, and reliable workflows while supporting continuous delivery and operational scalability.
 
 ## Key Features :
 
@@ -28,9 +22,9 @@ This project implements a robust MLOps pipeline, facilitating the continuous int
 **Drift Monitoring** : Uses a Streamlit app to monitor data drift, target drift, and performs data quality checks.
 
 
+## Architecture :
 
-
-
+![image](https://github.com/Chandru-21/MLOps_Project/assets/64595758/123511be-fe66-424d-8776-513b908840fe)
 
 ## Data Monitoring :
 
