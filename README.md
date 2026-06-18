@@ -1,6 +1,6 @@
 # Scalable Machine Learning Opearations (MLOps)
 
-## MLOps maturity level 5 
+## MLOps maturity level 5
 
 ## Overview :
 This project focuses on building a robust and scalable MLOps pipeline to automate the machine learning lifecycle, including model integration, deployment, monitoring, and maintenance. By leveraging AWS, Kubernetes, and open-source technologies, the solution ensures efficient, reproducible, and reliable workflows while supporting continuous delivery and operational scalability.
