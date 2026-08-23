@@ -11,7 +11,7 @@ This project focuses on building a robust and scalable MLOps pipeline to automat
 
 **Continuous Integration(CI)** : Triggered through ‘main.yml’ , building the code (docker), tests the code(Pytest),pushes the docker image to AWS ECR. 
 
-**Experiment Tracking / Model Versioning** : MLflow 
+**Experiment Tracking / Model Versioning** : MLflow
 
 **Continuous Deployment(CD)** : Deploys FastAPI in AWS EKS(kubernetes cluster) for real-time and batch predictions. 
 
