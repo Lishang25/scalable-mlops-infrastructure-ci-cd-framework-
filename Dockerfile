@@ -8,7 +8,7 @@ COPY . /app
 
 #set permissions
 
-RUN chmod +x /app/test
+RUN chmod +x /app/tests
 
 RUN chmod +w /app/tests
 
