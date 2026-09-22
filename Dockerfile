@@ -4,7 +4,7 @@ RUN pip install --upgrade pip
 
 WORKDIR /app
 
-COPY . /app 
+COPY . /appp
 
 #set permissions
 
