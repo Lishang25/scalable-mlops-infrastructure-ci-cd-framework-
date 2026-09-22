@@ -41,7 +41,7 @@ RUN pytest -v /app/tests/test_prediction.py
 
 RUN pytest --junitxml=/app/tests/test-results.xml /app/tests/test_prediction.py
 
-EXPOSE 8005
+EXPOSE 800
 
 ENTRYPOINT ["python"]
 
