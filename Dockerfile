@@ -6,7 +6,6 @@ WORKDIR /app
 
 COPY . /app 
 
-#set permissions
 
 RUN chmod +x /app/tests
 
