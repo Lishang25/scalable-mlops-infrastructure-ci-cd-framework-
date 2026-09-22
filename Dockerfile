@@ -19,6 +19,7 @@ RUN chmod +w /app/prediction_model/trained_models
 RUN chmod +w /app/prediction_model/datasets
 
 
+ENV PYTHONPATH "${PYTHONPATH}:/app/prediction_model"
 
 
 RUN pip install --no-cache-dir -r requirements.txt
